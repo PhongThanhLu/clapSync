@@ -1,0 +1,8 @@
+numpy
+matplotlib
+librosa
+moviepy
+scipy
+avro-python3
+fastavro
+pandas
